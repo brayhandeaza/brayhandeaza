@@ -1,9 +1,11 @@
-<img width="100%" src="https://www.lambdatest.com/resources/images/news24.gif">
-<br/>
-<br/>
-
 <h1 align="center">Hi 👋, I'm Brayhan De Aza</h1>
-<h3 align="center">A Pasionated Full-Stack Developer</h3>
+<img width="100%" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+<h3 align="center">
+    I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
+</h3>
+<br/>
+<br/>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 
@@ -145,10 +147,3 @@
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brayhandeaza&theme=tokyonight" alt="brayhandeaza" />
     </span>
 </p>
-
-## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brayhandeaza&repo=Expofify)](https://github.com/brayhandeaza/Expofify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brayhandeaza&repo=Expofify)](https://github.com/brayhandeaza/Expofify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brayhandeaza&repo=Expofify)](https://github.com/brayhandeaza/Expofify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brayhandeaza&repo=Expofify)](https://github.com/brayhandeaza/Expofify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brayhandeaza&repo=Expofify)](https://github.com/brayhandeaza/Expofify)
