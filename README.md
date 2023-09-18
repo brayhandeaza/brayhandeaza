@@ -7,7 +7,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/brayhandeaza)
 
 
-Hi 👋, I'm Brayhan De Aza</p>
+Hi 👋 there!</p>
 
 I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
 
