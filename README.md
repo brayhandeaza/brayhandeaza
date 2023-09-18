@@ -6,20 +6,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brayhandeaza/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/brayhandeaza)
 
-<p align="left">
-    <span>
-        <img src="https://badges.pufler.dev/visits/brayhandeaza/brayhandeaza" alt="brayhandeaza" />
-    </span> 
-    <a href="https://twitter.com/brayhandeaza" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="brayhandeaza" />
-    </a> 
-    <a href="https://www.linkedin.com/in/brayhandeaza/" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="brayhandeaza" />
-    </a> 
 
-</p>
-
-<h3 align="center">
+<h3>
     I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
 </h3>
 <br/>
@@ -29,7 +17,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **react, react native,fastapi, mongodb, javascript, html css, scss, github**
+- 💬 Ask me about **React, React Native, FastAPI, MongoDB, JavaScript, HTML & CSS, GitHub, Docker, TypesSript, Python PostgreSQL**
 
 <!-- -->
 
