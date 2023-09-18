@@ -7,19 +7,12 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/brayhandeaza)
 
 
-<h6>
-    <p>Hi 👋, I'm Brayhan De Aza</p>
-    I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
-</h3>
-<br/>
-<br/>
-<img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+Hi 👋, I'm Brayhan De Aza</p>
 
-- 🌱 I’m currently learning **Kubernetes**
+I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
 
-- 💬 Ask me about **React, React Native, FastAPI, MongoDB, JavaScript, HTML & CSS, GitHub, Docker, TypesSript, Python PostgreSQL**
 
-<!-- -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +25,19 @@
     
 </p>
 
+#
 
+<h3 align="left">Currently:</h3>
+
+<img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+
+
+- 🌱 I’m currently learning **Kubernetes**
+
+- 💬 Ask me about **React, React Native, FastAPI, MongoDB, JavaScript, HTML & CSS, GitHub, Docker, TypesSript, Python PostgreSQL**
+
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -82,7 +87,8 @@
     </a>
 </p>
 
-## Stats
+#
+<h3 align="left">Stats:</h3>
 <p>
     <span>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brayhandeaza&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="brayhandeaza" />
