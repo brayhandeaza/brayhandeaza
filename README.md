@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/brayhandeaza" target="blank">
+    <a href="https://instagram.com/brayhandeaza" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayhandeaza" height="30" width="40" />
     </a>
-    <a href="mailto:beayhandeaza@gmail.com?subject=Your%20Subject%20Here&body=Your%20Email%20Body%20Here" target="blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=brayhandeaza@gmail.com" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="brayhandeaza-gmail" height="30" width="40" />
     </a>
     
