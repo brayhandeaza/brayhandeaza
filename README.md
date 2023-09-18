@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brayhan De Aza</h1>
-<img width="100%" src="https://www.lambdatest.com/resources/images/news24.gif">
+
+<img width="100%" height="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 [![Visits Badge](https://badges.pufler.dev/visits/brayhandeaza/brayhandeaza)](https://twitter.com/brayhandeaza)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/brayhandeaza)
@@ -7,7 +7,8 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/brayhandeaza)
 
 
-<h3>
+<h6>
+    <p>Hi 👋, I'm Brayhan De Aza</p>
     I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
 </h3>
 <br/>
