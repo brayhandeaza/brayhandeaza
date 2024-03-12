@@ -83,17 +83,4 @@ I'm a Software Engineer who loves to code and bring ideas to life using object-o
             alt="redux" width="40" height="40" />
     </a>
 </p>
-
-#
-<h3 align="left">Stats:</h3>
-<p>
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brayhandeaza&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="brayhandeaza" />
-    </span>
-    <span >
-        <img src="https://github-readme-stats.vercel.app/api?username=brayhandeaza&show_icons=true&locale=en&theme=tokyonight" alt="brayhandeaza" />
-    </span>
-    <span>
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brayhandeaza&theme=tokyonight" alt="brayhandeaza" />
-    </span>
 </p>
