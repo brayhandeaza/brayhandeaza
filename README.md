@@ -9,7 +9,7 @@
 
 Hi 👋 there!</p>
 
-I'm a Software Engineer who loves to code and bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
+I'm a Software Engineer who loves to bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
 
 
 
