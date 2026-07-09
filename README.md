@@ -1,51 +1,128 @@
+<div align="center">
+  <img width="100%" height="320px" src="https://www.lambdatest.com/resources/images/news24.gif" alt="Developer banner" />
+</div>
 
-<img width="100%" height="350px" src="https://www.lambdatest.com/resources/images/news24.gif">
+<br />
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=brayhandeaza&label=Profile%20views&color=000000&style=flat)](/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://twitter.com/brayhandeaza)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/brayhandeaza/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/brayhandeaza)
+<div align="center">
 
+# Hi, I'm Brayhan De Aza 👋
 
-Hi 👋 there!</p>
+### Software Engineer • Backend & Full-Stack Developer • Developer Tools Builder
 
-I'm a Software Engineer who loves to bring ideas to life using object-oriented programming languages. Always excited to learn about new technologies. I pride myself on being the glue that holds everything together.
+I enjoy building systems that turn ideas into real, usable software.
+My work focuses on backend engineering, full-stack applications, developer tools, distributed systems, and language/runtime experimentation.
 
+</div>
 
+<br />
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/brayhandeaza" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayhandeaza" height="30" width="40" />
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=brayhandeaza@gmail.com" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="brayhandeaza-gmail" height="30" width="40" />
-    </a>
-    
+[![Profile Views](https://komarev.com/ghpvc/?username=brayhandeaza\&label=Profile%20views\&color=000000\&style=flat)](/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brayhandeaza/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Profile-black?style=flat\&logo=x\&logoColor=white)](https://twitter.com/brayhandeaza)
+[![CodePen](https://img.shields.io/badge/CodePen-Profile-black?style=flat\&logo=codepen\&logoColor=white)](https://codepen.io/brayhandeaza)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat\&logo=gmail\&logoColor=white)](mailto:brayhandeaza@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Software Engineer who enjoys designing and building software from the ground up.
+I like working with object-oriented programming, backend systems, APIs, developer tooling, and scalable application architecture.
+
+I’m especially interested in:
+
+* Backend engineering and API design
+* Full-stack web and mobile applications
+* Developer tools and programming languages
+* Distributed systems and microservices
+* Performance, compilers, and runtime design
+
+---
+
+## Currently
+
+* 🌱 Learning more about **Kubernetes** and cloud-native infrastructure
+* 🛠️ Building tools and frameworks around Python, TypeScript, Node.js, and C++
+* 💬 Ask me about **React, React Native, FastAPI, Node.js, Python, TypeScript, PostgreSQL, MongoDB, Docker, and GitHub Actions**
+
+---
+
+## Featured Work
+
+| Project    | Description                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Yogi**   | A TypeScript-like AOT compiled programming language focused on strict typing, performance, C ABI interop, and LLVM-based compilation. |
+| **Cromio** | A cross-language JSON-RPC framework for building simple microservice communication between Node.js, Python, Go, and Rust.             |
+| **Byper**  | A Python environment and workflow manager with local environments, YAML configuration, lockfiles, scripts, and task automation.       |
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" alt="Languages" />
 </p>
 
-#
+### Backend & APIs
 
-<h3 align="left">Currently:</h3>
-
-- 🌱 I’m currently learning **Kubernetes**
-
-- 💬 Ask me about **React, React Native, FastAPI, MongoDB, JavaScript, HTML & CSS, GitHub, Docker, TypesSript, Python PostgreSQL**
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"alt="postgresql" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,redis,graphql" alt="Backend tools" />
 </p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap" alt="Frontend tools" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,githubactions,linux" alt="DevOps tools" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=brayhandeaza&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayhandeaza&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/brayhandeaza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/brayhandeaza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://codepen.io/brayhandeaza" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="mailto:brayhandeaza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### “Building software that connects ideas, systems, and people.”
+
+</div>
