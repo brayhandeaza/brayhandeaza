@@ -2,8 +2,6 @@
   <img height="320px" src="https://res.cloudinary.com/brayhandeaza/image/upload/v1783625139/ps0nzlbjgtfyhve5r64h.png" alt="Developer banner" />
 </div>
 
-<br />
-
 <div align="center">
 
 # Hi, I'm Brayhan De Aza 👋
