@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="320px" src="https://www.lambdatest.com/resources/images/news24.gif" alt="Developer banner" />
+  <img width="100%" height="320px" src="https://res.cloudinary.com/brayhandeaza/image/upload/v1783620937/vypipfw4bxdajsxtuxwz.png" alt="Developer banner" />
 </div>
 
 <br />
