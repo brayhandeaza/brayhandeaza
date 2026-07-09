@@ -92,37 +92,11 @@ I’m especially interested in:
 
 ## GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=brayhandeaza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=brayhandeaza&theme=dark&hide_border=false)
+<img height="300px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=brayhandeaza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=brayhandeaza&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayhandeaza&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
-## Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/brayhandeaza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/brayhandeaza" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://codepen.io/brayhandeaza" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="mailto:brayhandeaza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### “Building software that connects ideas, systems, and people.”
-
-</div>
